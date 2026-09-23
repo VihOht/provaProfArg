@@ -1,0 +1,12 @@
+target
+.git
+.gitignore
+.idea
+*.iml
+.DS_Store
+README.md
+HELP.md
+*.log
+.mvn/wrapper/maven-wrapper.jar
+.env
+redis-data
